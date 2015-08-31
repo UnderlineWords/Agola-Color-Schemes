@@ -1,11 +1,11 @@
 # Agola Color Schemes
-Color schemes for TextMate &amp; Sublime Text code editors. (<a href="https://github.com/UnderlineWords/Agola-Color-Schemes/tree/master/Previews">screenshots</a>)
+Color schemes for TextMate &amp; Sublime Text code editors. (<a href="https://github.com/UnderlineWords/Agola-Color-Schemes/tree/master/screenshots">screenshots</a>)
 
 #### Recommended ; 
 <p>Font Family : <a href="https://en.wikipedia.org/wiki/Monaco_(typeface)">Monaco</a>; Size : 13px ; Line Spacing : 1.2</p>
 
 ----------
-<img src="https://raw.githubusercontent.com/UnderlineWords/Agola-Color-Schemes/master/Previews/Darky/sublime.png" />
+<img src="https://raw.githubusercontent.com/UnderlineWords/Agola-Color-Schemes/master/screenshots/Dark/sublime.png" />
 ----------
 
 ## Installation
