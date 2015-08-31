@@ -1,4 +1,4 @@
-# Agola-Color-Schemes
+# Agola Color Schemes
 Color schemes for TextMate &amp; Sublime Text code editors. (<a href="https://github.com/UnderlineWords/Agola-Color-Schemes/tree/master/Previews">screenshots</a>)
 
 ----------
