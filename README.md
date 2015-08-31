@@ -1,6 +1,10 @@
 # Agola-Color-Schemes
 Color schemes for TextMate &amp; Sublime Text code editors.
 
+----------
+<img src="https://raw.githubusercontent.com/UnderlineWords/Agola-Color-Schemes/master/Previews/Darky/php.png" />
+----------
+
 ## Installation
 
 ### TextMate
