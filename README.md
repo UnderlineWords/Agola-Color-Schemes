@@ -20,6 +20,12 @@ Color schemes for TextMate &amp; Sublime Text code editors. (<a href="https://gi
 
 ----------
 ### Sublime Text
+##### Manual Installation
 - Download a .tmTheme file
 - Browse Packages from the Command Palette (Ctrl+Shift+P on Windows/Linux, ⇧⌘P on OS X)
 - Copy the .tmTheme file to Packages
+
+##### Or via Package Control
+- Make sure you already have Package Control installed
+- Choose Install Package from the Command Palette (Ctrl+Shift+P on Windows/Linux, ⇧⌘P on iOS)
+- Select "Agola Color Schemes" and press Enter
