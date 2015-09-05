@@ -1,16 +1,19 @@
 # Agola Color Schemes
 Color schemes for TextMate &amp; Sublime Text code editors. (<a href="https://github.com/UnderlineWords/Agola-Color-Schemes/tree/master/screenshots">screenshots</a>)
-<img src="http://img.shields.io/badge/v-1.0.2-yellowgreen.svg" />
+<img src="http://img.shields.io/badge/v-1.1.0-yellowgreen.svg" />
 <hr>
 ##### Recommended ; 
 <p>Font Family : <a href="https://en.wikipedia.org/wiki/Monaco_(typeface)">Monaco</a>; Size : 13px ; Line Spacing : 1.2</p>
 
 ----------
 ##### Agola Dark 
-<img src="https://raw.githubusercontent.com/UnderlineWords/Agola-Color-Schemes/master/screenshots/Dark/sublime.png" />
+<img src="https://raw.githubusercontent.com/UnderlineWords/Agola-Color-Schemes/master/screenshots/Dark/dark.png" />
 ----------
 ##### Agola Green 
-<img src="https://raw.githubusercontent.com/UnderlineWords/Agola-Color-Schemes/master/screenshots/Green/sublime.png" />
+<img src="https://raw.githubusercontent.com/UnderlineWords/Agola-Color-Schemes/master/screenshots/Green/green.png" />
+----------
+##### Agola Nimbus 
+<img src="https://raw.githubusercontent.com/UnderlineWords/Agola-Color-Schemes/master/screenshots/Nimbus/nimbus.png" />
 ----------
 
 ## Installation
