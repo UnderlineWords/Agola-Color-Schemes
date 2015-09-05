@@ -1,6 +1,7 @@
 # Agola Color Schemes
 Color schemes for TextMate &amp; Sublime Text code editors. (<a href="https://github.com/UnderlineWords/Agola-Color-Schemes/tree/master/screenshots">screenshots</a>)
-
+<img src="http://img.shields.io/badge/v-1.0.2-yellowgreen.svg" />
+<hr>
 ##### Recommended ; 
 <p>Font Family : <a href="https://en.wikipedia.org/wiki/Monaco_(typeface)">Monaco</a>; Size : 13px ; Line Spacing : 1.2</p>
 
