@@ -18,7 +18,7 @@
 				<key>caret</key>
 				<string>#F8F8F0</string>
 				<key>foreground</key>
-				<string>#E7E7E7</string>
+				<string>#BBCF54</string>
 				<key>invisibles</key>
 				<string>#31333D</string>
 				<key>lineHighlight</key>
@@ -46,7 +46,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#B4CC3B</string>
+				<string>#B4C757</string>
 			</dict>
 		</dict>
 		<dict>
@@ -68,7 +68,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#A3CBE3</string>
+				<string>#E7E7E7</string>
 			</dict>
 		</dict>
 		<dict>
@@ -103,7 +103,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#B4CC3B</string>
+				<string>#DB7C6D</string>
 			</dict>
 		</dict>
 		<dict>
@@ -140,7 +140,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#CC6E66</string>
+				<string>#C77E77</string>
 			</dict>
 		</dict>
 		<dict>
@@ -166,7 +166,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#8CD4D2</string>
+				<string>#E8A64B</string>
 			</dict>
 		</dict>
 		<dict>
@@ -179,7 +179,7 @@
 				<key>fontStyle</key>
 				<string>italic</string>
 				<key>foreground</key>
-				<string>#E8A64B</string>
+				<string>#E7E7E7</string>
 			</dict>
 		</dict>
 		<dict>
@@ -192,7 +192,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#A1BA3F</string>
+				<string>#E7E7E7</string>
 			</dict>
 		</dict>
 		<dict>
@@ -205,7 +205,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#D69846</string>
+				<string>#E8A64B</string>
 			</dict>
 		</dict>
 		<dict>
@@ -218,7 +218,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#A9C7D9</string>
+				<string>#D49E52</string>
 			</dict>
 		</dict>
 		<dict>
@@ -244,7 +244,7 @@
 				<key>fontStyle</key>
 				<string>italic</string>
 				<key>foreground</key>
-				<string>#D4D4D4</string>
+				<string>#E7E7E7</string>
 			</dict>
 		</dict>
 		<dict>
