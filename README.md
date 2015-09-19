@@ -1,5 +1,5 @@
 # Agola Color Schemes
-Color schemes for TextMate &amp; Sublime Text code editors. <img src="http://img.shields.io/badge/v-1.2.25-yellowgreen.svg" />
+Color schemes for TextMate &amp; Sublime Text code editors. <img src="http://img.shields.io/badge/v-1.2.21-yellowgreen.svg" />
 
 [ <a href="https://github.com/UnderlineWords/Agola-Color-Schemes/tree/master/screenshots">Screenshots</a> | <a href="http://tmtheme-editor.herokuapp.com/#!/editor/theme/Agola%20Dark" target="_blank">Test Drive for Agola Dark</a> ]
 
