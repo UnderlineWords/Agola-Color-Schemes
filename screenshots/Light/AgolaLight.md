@@ -4,22 +4,22 @@
 <img src="https://github.com/UnderlineWords/Agola-Color-Schemes/blob/master/screenshots/Light/Less.png" />
 ----------
 ##### CSS
-<img src="https://github.com/UnderlineWords/Agola-Color-Schemes/blob/master/screenshots/Light/css.png" />
+<img src="https://github.com/UnderlineWords/Agola-Color-Schemes/blob/master/screenshots/Light/CSS.png" />
 ----------
 ##### HTML
-<img src="https://github.com/UnderlineWords/Agola-Color-Schemes/blob/master/screenshots/Light/html.png" />
+<img src="https://github.com/UnderlineWords/Agola-Color-Schemes/blob/master/screenshots/Light/HTML.png" />
 ----------
 ##### Javascript
-<img src="https://github.com/UnderlineWords/Agola-Color-Schemes/blob/master/screenshots/Light/javascript.png" />
+<img src="https://github.com/UnderlineWords/Agola-Color-Schemes/blob/master/screenshots/Light/Javascript.png" />
 ----------
 ##### PHP
-<img src="https://github.com/UnderlineWords/Agola-Color-Schemes/blob/master/screenshots/Light/php.png" />
+<img src="https://github.com/UnderlineWords/Agola-Color-Schemes/blob/master/screenshots/Light/PHP.png" />
 ----------
 ##### Python
-<img src="https://github.com/UnderlineWords/Agola-Color-Schemes/blob/master/screenshots/Light/python.png" />
+<img src="https://github.com/UnderlineWords/Agola-Color-Schemes/blob/master/screenshots/Light/Python.png" />
 ----------
 ##### Ruby
-<img src="https://github.com/UnderlineWords/Agola-Color-Schemes/blob/master/screenshots/Light/ruby.png" />
+<img src="https://github.com/UnderlineWords/Agola-Color-Schemes/blob/master/screenshots/Light/Ruby.png" />
 ----------
 ##### JAVA
 <img src="https://github.com/UnderlineWords/Agola-Color-Schemes/blob/master/screenshots/Light/Java.png" />
