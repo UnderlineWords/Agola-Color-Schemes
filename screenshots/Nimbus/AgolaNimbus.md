@@ -4,22 +4,22 @@
 <img src="https://github.com/UnderlineWords/Agola-Color-Schemes/blob/master/screenshots/Nimbus/Less.png" />
 ----------
 ##### CSS
-<img src="https://github.com/UnderlineWords/Agola-Color-Schemes/blob/master/screenshots/Nimbus/css.png" />
+<img src="https://github.com/UnderlineWords/Agola-Color-Schemes/blob/master/screenshots/Nimbus/CSS.png" />
 ----------
 ##### HTML
-<img src="https://github.com/UnderlineWords/Agola-Color-Schemes/blob/master/screenshots/Nimbus/html.png" />
+<img src="https://github.com/UnderlineWords/Agola-Color-Schemes/blob/master/screenshots/Nimbus/HTML.png" />
 ----------
 ##### Javascript
-<img src="https://github.com/UnderlineWords/Agola-Color-Schemes/blob/master/screenshots/Nimbus/javascript.png" />
+<img src="https://github.com/UnderlineWords/Agola-Color-Schemes/blob/master/screenshots/Nimbus/Javascript.png" />
 ----------
 ##### PHP
-<img src="https://github.com/UnderlineWords/Agola-Color-Schemes/blob/master/screenshots/Nimbus/php.png" />
+<img src="https://github.com/UnderlineWords/Agola-Color-Schemes/blob/master/screenshots/Nimbus/PHP.png" />
 ----------
 ##### Python
-<img src="https://github.com/UnderlineWords/Agola-Color-Schemes/blob/master/screenshots/Nimbus/python.png" />
+<img src="https://github.com/UnderlineWords/Agola-Color-Schemes/blob/master/screenshots/Nimbus/Python.png" />
 ----------
 ##### Ruby
-<img src="https://github.com/UnderlineWords/Agola-Color-Schemes/blob/master/screenshots/Nimbus/ruby.png" />
+<img src="https://github.com/UnderlineWords/Agola-Color-Schemes/blob/master/screenshots/Nimbus/Ruby.png" />
 ----------
 ##### JAVA
 <img src="https://github.com/UnderlineWords/Agola-Color-Schemes/blob/master/screenshots/Nimbus/Java.png" />
