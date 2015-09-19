@@ -1,23 +1,19 @@
 # Agola Color Schemes
-Color schemes for TextMate &amp; Sublime Text code editors. <img src="http://img.shields.io/badge/v-1.2.21-yellowgreen.svg" />
+Color schemes for TextMate &amp; Sublime Text editors. <img src="http://img.shields.io/badge/v-1.2.26-yellowgreen.svg" />
 
-[ <a href="https://github.com/UnderlineWords/Agola-Color-Schemes/tree/master/screenshots">Screenshots</a> | <a href="http://tmtheme-editor.herokuapp.com/#!/editor/theme/Agola%20Dark" target="_blank">Test Drive for Agola Dark</a> ]
-
-<hr>
-##### Recommended ; 
-<p>Font Family : <a href="https://en.wikipedia.org/wiki/Monaco_(typeface)">Monaco</a>; Size : 13px ; Line Spacing : 1.2</p>
+[ <a href="http://tmtheme-editor.herokuapp.com/#!/editor/theme/Agola%20Dark" target="_blank">Test Drive for Agola Dark</a> ]
 
 ----------
-##### Agola Dark 
+##### Agola Dark :: (<a href="https://github.com/UnderlineWords/Agola-Color-Schemes/blob/master/screenshots/Dark/AgolaDark.md">Screenshots</a>)
 <img src="https://raw.githubusercontent.com/UnderlineWords/Agola-Color-Schemes/master/screenshots/Dark/dark.png" />
 ----------
-##### Agola Green 
+##### Agola Green :: (<a href="https://github.com/UnderlineWords/Agola-Color-Schemes/blob/master/screenshots/Dark/AgolaDark.md">Screenshots</a>)
 <img src="https://raw.githubusercontent.com/UnderlineWords/Agola-Color-Schemes/master/screenshots/Green/green.png" />
 ----------
-##### Agola Nimbus 
+##### Agola Nimbus :: (<a href="https://github.com/UnderlineWords/Agola-Color-Schemes/blob/master/screenshots/Dark/AgolaDark.md">Screenshots</a>)
 <img src="https://raw.githubusercontent.com/UnderlineWords/Agola-Color-Schemes/master/screenshots/Nimbus/nimbus.png" />
 ----------
-##### Agola Light
+##### Agola Light :: (<a href="https://github.com/UnderlineWords/Agola-Color-Schemes/blob/master/screenshots/Dark/AgolaDark.md">Screenshots</a>)
 <img src="https://raw.githubusercontent.com/UnderlineWords/Agola-Color-Schemes/master/screenshots/Light/light.png" />
 
 ## Installation
@@ -37,3 +33,7 @@ Color schemes for TextMate &amp; Sublime Text code editors. <img src="http://img
 - Make sure you already have Package Control installed
 - Choose Install Package from the Command Palette (Ctrl+Shift+P on Windows/Linux, ⇧⌘P on iOS)
 - Select "Agola Color Schemes" and press Enter
+
+<hr>
+##### Recommended ; 
+<p>Font Family : <a href="https://en.wikipedia.org/wiki/Monaco_(typeface)">Monaco</a>; Size : 13px ; Line Spacing : 1.2</p>
