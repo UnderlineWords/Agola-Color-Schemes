@@ -1,4 +1,4 @@
-# Agola Green
+# Agola Light
 ----------
 ##### LESS 
 <img src="https://github.com/UnderlineWords/Agola-Color-Schemes/blob/master/screenshots/Light/Less.png" />
