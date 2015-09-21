@@ -1,4 +1,4 @@
-# Agola Green
+# Agola Nimbus
 ----------
 ##### LESS 
 <img src="https://github.com/UnderlineWords/Agola-Color-Schemes/blob/master/screenshots/Nimbus/Less.png" />
