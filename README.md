@@ -35,5 +35,5 @@ Color schemes for TextMate &amp; Sublime Text editors. <img src="http://img.shie
 - Select "Agola Color Schemes" and press Enter
 
 <hr>
-##### Recommended ; 
-<p>Font Family : <a href="https://en.wikipedia.org/wiki/Monaco_(typeface)">Monaco</a>; Size : 13px ; Line Spacing : 1.2</p>
+##### Recommended Font; 
+<p><a href="https://en.wikipedia.org/wiki/Monaco_(typeface)">Monaco</a></p>
