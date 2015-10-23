@@ -7,6 +7,9 @@ Color schemes for TextMate &amp; Sublime Text editors. <img src="http://img.shie
 ##### Agola Dark :: (<a href="https://github.com/UnderlineWords/Agola-Color-Schemes/blob/master/screenshots/Dark/AgolaDark.md">Screenshots</a>)
 <img src="https://raw.githubusercontent.com/UnderlineWords/Agola-Color-Schemes/master/screenshots/Dark/ruby.png" />
 ----------
+##### Agola White :: (<a href="https://github.com/UnderlineWords/Agola-Color-Schemes/blob/master/screenshots/White/AgolaWhite.md">Screenshots</a>)
+<img src="https://raw.githubusercontent.com/UnderlineWords/Agola-Color-Schemes/master/screenshots/White/Javascript.png" />
+----------
 ##### Agola Green :: (<a href="https://github.com/UnderlineWords/Agola-Color-Schemes/blob/master/screenshots/Green/AgolaGreen.md">Screenshots</a>)
 <img src="https://raw.githubusercontent.com/UnderlineWords/Agola-Color-Schemes/master/screenshots/Green/php.png" />
 ----------
