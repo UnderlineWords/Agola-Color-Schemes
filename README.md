@@ -1,5 +1,5 @@
 # Agola Color Schemes
-Color schemes for TextMate &amp; Sublime Text editors. <img src="http://img.shields.io/badge/v-1.3.1-yellowgreen.svg" />
+Color schemes for TextMate &amp; Sublime Text editors. <img src="http://img.shields.io/badge/v-1.3.5-yellowgreen.svg" />
 
 [ <a href="http://tmtheme-editor.herokuapp.com/#!/editor/theme/Agola%20Dark" target="_blank">Test Drive for Agola Dark</a> ]
 
@@ -14,7 +14,7 @@ Color schemes for TextMate &amp; Sublime Text editors. <img src="http://img.shie
 <img src="https://raw.githubusercontent.com/UnderlineWords/Agola-Color-Schemes/master/screenshots/Green/php.png" />
 ----------
 ##### Agola Nimbus :: (<a href="https://github.com/UnderlineWords/Agola-Color-Schemes/blob/master/screenshots/Nimbus/AgolaNimbus.md">Screenshots</a>)
-<img src="https://raw.githubusercontent.com/UnderlineWords/Agola-Color-Schemes/master/screenshots/Nimbus/HTML.png" />
+<img src="https://raw.githubusercontent.com/UnderlineWords/Agola-Color-Schemes/master/screenshots/Nimbus/Less.png" />
 ----------
 ##### Agola Light :: (<a href="https://github.com/UnderlineWords/Agola-Color-Schemes/blob/master/screenshots/Light/AgolaLight.md">Screenshots</a>)
 <img src="https://raw.githubusercontent.com/UnderlineWords/Agola-Color-Schemes/master/screenshots/Light/Java.png" />
