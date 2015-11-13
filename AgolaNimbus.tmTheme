@@ -12,15 +12,15 @@
 				<key>background</key>
 				<string>#394147</string>
 				<key>caret</key>
-				<string>#F8F8F0</string>
+				<string>#85DEDD</string>
 				<key>foreground</key>
-				<string>#66C4C4</string>
+				<string>#FFFFFF</string>
 				<key>invisibles</key>
-				<string>#314857</string>
+				<string>#26323D</string>
 				<key>lineHighlight</key>
-				<string>#314857</string>
+				<string>#26323D</string>
 				<key>selection</key>
-				<string>#2B3F4D</string>
+				<string>#26323D</string>
 			</dict>
 		</dict>
 		<dict>
@@ -31,7 +31,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#526775</string>
+				<string>#60798A</string>
 			</dict>
 		</dict>
 		<dict>
@@ -42,7 +42,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#EDEDED</string>
+				<string>#CFF0CC</string>
 			</dict>
 		</dict>
 		<dict>
@@ -53,7 +53,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FFDD1F</string>
+				<string>#FFFFFF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -64,7 +64,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#CFE8EF</string>
+				<string>#8AD4EB</string>
 			</dict>
 		</dict>
 		<dict>
@@ -75,7 +75,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#C5DB58</string>
+				<string>#75D971</string>
 			</dict>
 		</dict>
 		<dict>
@@ -88,7 +88,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#A3CBE3</string>
+				<string>#85DEDD</string>
 			</dict>
 		</dict>
 		<dict>
@@ -99,7 +99,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#F8F8F0</string>
+				<string>#FA8A5A</string>
 			</dict>
 		</dict>
 		<dict>
@@ -112,7 +112,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#C5DB58</string>
+				<string>#FAD43C</string>
 			</dict>
 		</dict>
 		<dict>
@@ -122,10 +122,8 @@
 			<string>storage.type</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string>italic</string>
 				<key>foreground</key>
-				<string>#77E0E0</string>
+				<string>#70DBEB</string>
 			</dict>
 		</dict>
 		<dict>
@@ -136,7 +134,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#F8F8F0</string>
+				<string>#B5EB9E</string>
 			</dict>
 		</dict>
 		<dict>
@@ -146,8 +144,6 @@
 			<string>entity.other.inherited-class</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string>   italic</string>
 				<key>foreground</key>
 				<string>#A3CBE3</string>
 			</dict>
@@ -162,7 +158,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#FFDD1F</string>
+				<string>#FAE04D</string>
 			</dict>
 		</dict>
 		<dict>
@@ -172,10 +168,8 @@
 			<string>variable.parameter</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string>italic</string>
 				<key>foreground</key>
-				<string>#FFDD1F</string>
+				<string>#F0B669</string>
 			</dict>
 		</dict>
 		<dict>
@@ -188,7 +182,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#C1D957</string>
+				<string>#C1DE4C</string>
 			</dict>
 		</dict>
 		<dict>
@@ -201,7 +195,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#DBBE1B</string>
+				<string>#DBC33D</string>
 			</dict>
 		</dict>
 		<dict>
@@ -214,7 +208,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#A4C8ED</string>
+				<string>#9BF2A3</string>
 			</dict>
 		</dict>
 		<dict>
@@ -227,7 +221,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#A4C8ED</string>
+				<string>#BCEB6A</string>
 			</dict>
 		</dict>
 		<dict>
@@ -237,10 +231,8 @@
 			<string>support.type, support.class</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string>italic</string>
 				<key>foreground</key>
-				<string>#F8F8F0</string>
+				<string>#8ADAE6</string>
 			</dict>
 		</dict>
 		<dict>
@@ -292,6 +284,6 @@
 	<key>author</key>
 	<string>Fatih Kececi</string>
 	<key>comment</key>
-	<string>Blue color scheme for text editors</string>
+	<string>Color scheme for text editors</string>
 </dict>
 </plist>
