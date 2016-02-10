@@ -3,9 +3,6 @@
 ##### LESS 
 <img src="https://github.com/UnderlineWords/Agola-Color-Schemes/blob/master/screenshots/Green/Less.png" />
 ----------
-##### CSS
-<img src="https://github.com/UnderlineWords/Agola-Color-Schemes/blob/master/screenshots/Green/css.png" />
-----------
 ##### HTML
 <img src="https://github.com/UnderlineWords/Agola-Color-Schemes/blob/master/screenshots/Green/html.png" />
 ----------
