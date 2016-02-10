@@ -31,6 +31,8 @@ Color schemes for TextMate &amp; Sublime Text editors. <img src="http://img.shie
 - Download a .tmTheme file
 - Browse Packages from the Command Palette (Ctrl+Shift+P on Windows/Linux, ⇧⌘P on OS X)
 - Copy the .tmTheme file to Packages
+- And add the following line to Settings - User (Preferences.sublime-settings) file.
+`"color_scheme": "Packages/[RootOrYourCustomRoot]/AgolaDark.tmTheme"`
 
 ##### Or via Package Control
 - Make sure you already have Package Control installed
