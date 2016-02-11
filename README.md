@@ -1,5 +1,5 @@
 # Agola Color Schemes
-Color schemes for TextMate &amp; Sublime Text editors. <img src="http://img.shields.io/badge/v-1.3.5-yellowgreen.svg" />
+Color schemes for TextMate &amp; Sublime Text editors. <img src="http://img.shields.io/badge/v-1.3.7-yellowgreen.svg" />
 
 [ <a href="http://tmtheme-editor.herokuapp.com/#!/editor/theme/Agola%20Dark" target="_blank">Test Drive for Agola Dark</a> ]
 
@@ -38,7 +38,7 @@ Color schemes for TextMate &amp; Sublime Text editors. <img src="http://img.shie
 - Make sure you already have Package Control installed
 - Choose Install Package from the Command Palette (Ctrl+Shift+P on Windows/Linux, ⇧⌘P on iOS)
 - Select "Agola Color Schemes" and press Enter
-- Ang go to Preferences > Color Schemes > Agola Color Schemes and select a Theme
+- And go to `Preferences > Color Schemes > Agola Color Schemes` and select a Theme
 
 <hr>
 ##### Recommended Font; 
