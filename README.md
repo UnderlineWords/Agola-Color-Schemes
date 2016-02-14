@@ -40,5 +40,4 @@ Color schemes for TextMate &amp; Sublime Text editors. <img src="http://img.shie
 
 <hr>
 ##### Recommended Fonts; 
-<p><a href="https://en.wikipedia.org/wiki/Monaco_(typeface)">Monaco</a></p>
-<p><a href="https://www.google.com/fonts/specimen/Droid+Sans+Mono">Droid Sans Pro</a></p>
+<p><a href="https://en.wikipedia.org/wiki/Monaco_(typeface)">Monaco</a> | <a href="https://www.google.com/fonts/specimen/Droid+Sans+Mono">Droid Sans Mono</a></p>
