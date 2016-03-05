@@ -12,7 +12,7 @@ Color schemes for TextMate &amp; Sublime Text editors.
 <img src="https://raw.githubusercontent.com/UnderlineWords/Agola-Color-Schemes/master/screenshots/Green/Java.png" />
 ----------
 ##### Agola Nimbus :: (<a href="https://github.com/UnderlineWords/Agola-Color-Schemes/blob/master/screenshots/Nimbus/AgolaNimbus.md">Screenshots</a>)
-<img src="https://raw.githubusercontent.com/UnderlineWords/Agola-Color-Schemes/master/screenshots/Nimbus/Less.png" />
+<img src="https://raw.githubusercontent.com/UnderlineWords/Agola-Color-Schemes/master/screenshots/Nimbus/PHP.png" />
 ----------
 ##### Agola Light :: (<a href="https://github.com/UnderlineWords/Agola-Color-Schemes/blob/master/screenshots/Light/AgolaLight.md">Screenshots</a>)
 <img src="https://raw.githubusercontent.com/UnderlineWords/Agola-Color-Schemes/master/screenshots/Light/Java.png" />
