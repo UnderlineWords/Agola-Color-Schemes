@@ -1,7 +1,7 @@
 # Agola Color Schemes
 Color schemes for TextMate &amp; Sublime Text editors. If you want to see the <a href="http://underlinewords.github.io/Agola-Color-Schemes">screenshots</a> in the meantime, take a look at <a href="http://underlinewords.github.io/Agola-Color-Schemes">Github.io</a>
 
-# Installation
+## Installation
 
 ### TextMate
  - Download a .tmTheme file
