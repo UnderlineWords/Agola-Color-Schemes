@@ -1,6 +1,10 @@
 # Agola Color Schemes
 Color schemes (<a href="http://underlinewords.github.io/Agola-Color-Schemes">Dark, White, Green, Light and Nimbus</a>) for TextMate &amp; Sublime Text editors. If you want to see the <a href="http://underlinewords.github.io/Agola-Color-Schemes">screenshots</a> in the meantime, take a look at <a href="http://underlinewords.github.io/Agola-Color-Schemes">Github.io</a>. Happy coding!
+----------
+##### Agola Dark :: (<a href="http://underlinewords.github.io/Agola-Color-Schemes">Dark, White, Green, Light and Nimbus</a>Screenshots</a>) (<a href="http://tmtheme-editor.herokuapp.com/#!/editor/theme/Agola%20Dark" target="_blank">Test Drive</a>)
+<img src="https://raw.githubusercontent.com/UnderlineWords/Agola-Color-Schemes/gh-pages/images/dark.gif" />
 
+----------
 ## Installation
 
 ### TextMate
