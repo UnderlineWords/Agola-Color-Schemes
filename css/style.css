@@ -1,0 +1,300 @@
+html,
+body {
+    width: 100%;
+    height: 100%;
+    min-width: 100%;
+    max-width: 100%;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+}
+
+body {
+    background: #fff;
+    font-family: "Lato";
+    font-size: 16px;
+    color: #666;
+    -webkit-font-smoothing: antialiased;
+}
+
+h1, h2, h3, h4, h5 {
+    font-weight: 300;
+}
+
+ul.pages {
+    margin-left: -40px;
+}
+
+ul.pages li {
+    list-style-type: none;
+    padding-top: 20px;
+}
+
+ul.pages li img {
+    position: relative;
+    z-index: 11699;
+}
+
+ul.nav-next {
+    position: relative;
+    z-index: 4;
+    color: white;
+    line-height: 30px;
+    font-family: helvetica;
+    text-transform: uppercase;
+    display: inline-block;
+    width: 100px;
+    float: right;
+}
+
+ul.nav-next li,
+ul.nav-prev li {
+    list-style-type: none;
+    color: white;
+}
+
+a {
+    text-decoration: none;
+}
+
+::-moz-selection {
+    background: #b0cc46;
+    color: white;
+}
+
+::selection {
+    background: #b0cc46;
+    color: white;
+}
+
+.current {
+    opacity: 1 !important;
+    position: absolute;
+    z-index: 3 !important;
+}
+
+/*
+    Wrapper
+*/
+#wrapper {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    -webkit-perspective: 1200px;
+    -webkit-perspective-origin: 50% 50%;
+}
+
+/*
+    Font Colors
+*/
+#wrapper .agola.dark {
+    color: #b0cc46;
+}
+
+#wrapper .agola.white {
+    color: #b0cc46;
+}
+
+#wrapper .agola.green {
+    color: #b0cc46;
+}
+
+#wrapper .agola.light {
+    color: #b0cc46;
+}
+
+#wrapper .agola.nimbus {
+    color: #b0cc46;
+}
+
+/*
+    HR
+*/
+#agola-dark .captions,
+#agola-green .captions,
+#agola-nimbus .captions,
+#agola-white .captions,
+#agola-light .captions {
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+}
+
+#agola-dark .captions,
+#agola-green .captions,
+#agola-nimbus .captions {
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+#agola-white .captions,
+#agola-light .captions {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+/*
+    H1
+*/
+#agola-dark h1,
+#agola-white h1,
+#agola-green h1,
+#agola-light h1,
+#agola-nimbus h1 {
+    font-size: 50px;
+    margin-bottom: 0;
+    margin-bottom: -4px;
+    font-family: "Roboto Condensed";
+    letter-spacing: -4px;
+}
+
+#agola-dark h1,
+#agola-green h1,
+#agola-nimbus h1 {
+    color: #fff;
+}
+
+#agola-white h1,
+#agola-light h1 {
+    color: #82888A;
+}
+
+/*
+    H3
+*/
+#agola-dark h3,
+#agola-white h3,
+#agola-green h3,
+#agola-light h3,
+#agola-nimbus h3 {
+    font-size: 22px;
+    margin-top: 0;
+}
+
+#agola-dark h3,
+#agola-green h3,
+#agola-nimbus h3 {
+    color: rgba(255, 255, 255, 0.2);
+}
+
+#agola-white h3,
+#agola-light h3 {
+    color: #C9D4D6;
+}
+
+/*
+    Pages
+*/
+#agola-dark,
+#agola-white,
+#agola-green,
+#agola-light,
+#agola-nimbus {
+    position: absolute;
+    top: 0;
+    z-index: 0;
+    opacity: 0;
+    margin: auto;
+    width: 100%;
+    height: 100%;
+}
+
+#agola-dark {
+    background-color: #31333D;
+}
+
+#agola-white {
+    background-color: #fff;
+}
+
+#agola-green {
+    background-color: #1E2D13;
+}
+
+#agola-light {
+    background-color: #EDF4F5;
+}
+
+#agola-nimbus {
+    background-color: #394147;
+}
+
+/* 
+	Nav
+*/
+.nav > li > a {
+    transition: all 0.2s ease;
+    text-align: center;
+}
+
+#agola-dark .nav > li > a,
+#agola-green .nav > li > a,
+#agola-nimbus .nav > li > a {
+    color: rgba(255, 255, 255, 0.5);
+    background-color: rgba(255, 255, 255, .035);
+}
+
+#agola-dark .nav > li > a.active,
+#agola-green .nav > li > a.active,
+#agola-nimbus .nav > li > a.active {
+    color: rgba(255, 255, 255, 0.5);
+    background-color: rgba(255, 255, 255, .165);
+}
+
+#agola-white .nav > li > a,
+#agola-light .nav > li > a {
+    color: rgba(0, 0, 0, 0.5);
+    background-color: rgba(0, 0, 0, .065);
+}
+
+#agola-white .nav > li > a.active,
+#agola-light .nav > li > a.active {
+    color: rgba(0, 0, 0, 0.5);
+    background-color: rgba(0, 0, 0, .165);
+}
+
+#agola-dark .nav > li > a:focus,
+#agola-dark .nav > li > a:hover,
+#agola-green .nav > li > a:focus,
+#agola-green .nav > li > a:hover,
+#agola-nimbus .nav > li > a:focus,
+#agola-nimbus .nav > li > a:hover {
+    background-color: rgba(255, 255, 255, 0.2);
+    transition: all 0.2s ease;
+}
+
+#agola-white .nav > li > a:focus,
+#agola-white .nav > li > a:hover,
+#agola-light .nav > li > a:focus,
+#agola-light .nav > li > a:hover {
+    background-color: rgba(0, 0, 0, 0.2);
+    transition: all 0.2s ease;
+}
+
+/* Header buttons */
+.buttons {
+    text-align: right;
+    margin-top: 60px;
+}
+
+#agola-dark .buttons .btn-default,
+#agola-green .buttons .btn-default,
+#agola-nimbus .buttons .btn-default {
+    color: #fff;
+    background-color: transparent;
+    border-color: rgba(255, 255, 255, 0.1);
+}
+
+#agola-white .buttons .btn-default,
+#agola-light .buttons .btn-default {
+    color: #848f91;
+    background-color: transparent;
+    border-color: rgba(0, 0, 0, 0.1);
+}
+
+#agola-dark .buttons .btn-default:hover,
+#agola-green .buttons .btn-default:hover,
+#agola-nimbus .buttons .btn-default:hover,
+#agola-white .buttons .btn-default:hover,
+#agola-light .buttons .btn-default:hover {
+    color: #333;
+    background-color: #e6e6e6;
+    border-color: #adadad;
+}
