@@ -17,8 +17,8 @@ $(function () {
         }
     });
 
-    $(".agola-white").click(function () {
-        if ($("ul.pages li.background:eq(-3),ul.pages li.background:eq(-2),ul.pages li.background:eq(-1)").hasClass('current')) {
+    $(".agola-dark-x2").click(function () {
+        if ($("ul.pages li.background:eq(-4),ul.pages li.background:eq(-3),ul.pages li.background:eq(-2),ul.pages li.background:eq(-1)").hasClass('current')) {
 
             if ($('ul.pages li.background').eq(1).hasClass("current")) {
                 return false;
@@ -48,6 +48,41 @@ $(function () {
                     $(this).css("opacity", "1");
                 });
                 $('ul.pages li.background').eq(1).addClass('current').css("opacity", "1");
+            }
+        }
+    });
+
+    $(".agola-white").click(function () {
+        if ($("ul.pages li.background:eq(-3),ul.pages li.background:eq(-2),ul.pages li.background:eq(-1)").hasClass('current')) {
+
+            if ($('ul.pages li.background').eq(1).hasClass("current")) {
+                return false;
+            } else {
+                $('ul.pages li.background').css({
+                    "opacity": "0",
+                    "z-index": "0"
+                });
+                $('.current').is(function () {
+                    $(this).removeClass("current");
+                    $(this).css("opacity", "1");
+                });
+                $('ul.pages li.background').eq(2).addClass('current').css("opacity", "1");
+            }
+
+        } else {
+
+            if ($('ul.pages li.background').eq(2).hasClass("current")) {
+                return false;
+            } else {
+                $('ul.pages li.background').css({
+                    "opacity": "0",
+                    "z-index": "0"
+                });
+                $('.current').is(function () {
+                    $(this).removeClass("current");
+                    $(this).css("opacity", "1");
+                });
+                $('ul.pages li.background').eq(2).addClass('current').css("opacity", "1");
             }
         }
     });
@@ -66,12 +101,12 @@ $(function () {
                     $(this).removeClass("current");
                     $(this).css("opacity", "1");
                 });
-                $('ul.pages li.background').eq(2).addClass('current').css("opacity", "1");
+                $('ul.pages li.background').eq(3).addClass('current').css("opacity", "1");
             }
 
         } else {
 
-            if ($('ul.pages li.background').eq(2).hasClass("current")) {
+            if ($('ul.pages li.background').eq(3).hasClass("current")) {
                 return false;
             } else {
                 $('ul.pages li.background').css({
@@ -82,7 +117,7 @@ $(function () {
                     $(this).removeClass("current");
                     $(this).css("opacity", "1");
                 });
-                $('ul.pages li.background').eq(2).addClass('current').css("opacity", "1");
+                $('ul.pages li.background').eq(3).addClass('current').css("opacity", "1");
             }
         }
     });
@@ -101,12 +136,12 @@ $(function () {
                     $(this).removeClass("current");
                     $(this).css("opacity", "1");
                 });
-                $('ul.pages li.background').eq(3).addClass('current').css("opacity", "1");
+                $('ul.pages li.background').eq(4).addClass('current').css("opacity", "1");
             }
 
         } else {
 
-            if ($('ul.pages li.background').eq(3).hasClass("current")) {
+            if ($('ul.pages li.background').eq(4).hasClass("current")) {
                 return false;
             } else {
                 $('ul.pages li.background').css({
@@ -117,13 +152,13 @@ $(function () {
                     $(this).removeClass("current");
                     $(this).css("opacity", "1");
                 });
-                $('ul.pages li.background').eq(3).addClass('current').css("opacity", "1");
+                $('ul.pages li.background').eq(4).addClass('current').css("opacity", "1");
             }
         }
     });
 
     $(".agola-nimbus").click(function () {
-        if ($('ul.pages li.background').eq(4).hasClass("current")) {
+        if ($('ul.pages li.background').eq(5).hasClass("current")) {
             return false;
         } else {
             $('ul.pages li.background').css({
@@ -135,7 +170,7 @@ $(function () {
                 $(this).css("opacity", "1");
 
             });
-            $('ul.pages li.background').eq(4).addClass('current').css("opacity", "1");
+            $('ul.pages li.background').eq(5).addClass('current').css("opacity", "1");
         }
     });
 });
