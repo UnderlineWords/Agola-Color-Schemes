@@ -1,5 +1,5 @@
 # Agola Color Schemes
-Color schemes (<a href="http://underlinewords.github.io/Agola-Color-Schemes">Dark, White, Green, Light and Nimbus</a>) for TextMate &amp; Sublime Text editors. If you want to see the <a href="http://underlinewords.github.io/Agola-Color-Schemes"><b>Screenshots</b></a> in the meantime, <a href="http://underlinewords.github.io/Agola-Color-Schemes">take a look !</a>.
+Color schemes (<a href="http://underlinewords.github.io/Agola-Color-Schemes">Dark, Dark X2, White, Green, Light and Nimbus</a>) for TextMate &amp; Sublime Text editors. If you want to see the <a href="http://underlinewords.github.io/Agola-Color-Schemes"><b>Screenshots</b></a> in the meantime, <a href="http://underlinewords.github.io/Agola-Color-Schemes">take a look !</a>.
 
 ## Installation
 
