@@ -1,5 +1,28 @@
 # Agola Color Schemes
-Color schemes (<a href="http://underlinewords.github.io/Agola-Color-Schemes">Dark, Dark X2, White, Green, Light and Nimbus</a>) for TextMate &amp; Sublime Text editors. If you want to see the <a href="http://underlinewords.github.io/Agola-Color-Schemes"><b>Screenshots</b></a> in the meantime, <a href="http://underlinewords.github.io/Agola-Color-Schemes">take a look !</a>.
+Color schemes (<a href="http://underlinewords.github.io/Agola-Color-Schemes">Dark, Dark X2, White, Green, Light and Nimbus</a>) for TextMate & Sublime Text.
+
+----------
+##### Agola Expert-Class
+<img src="https://raw.githubusercontent.com/UnderlineWords/Agola-Color-Schemes/master/screenshots/AgolaExpert-Class.png" />
+----------
+##### Agola Dark
+<img src="https://raw.githubusercontent.com/UnderlineWords/Agola-Color-Schemes/master/screenshots/AgolaDark.png" />
+----------
+##### Agola Dark X2
+<img src="https://raw.githubusercontent.com/UnderlineWords/Agola-Color-Schemes/master/screenshots/AgolaDarkX2.png" />
+----------
+##### Agola White
+<img src="https://raw.githubusercontent.com/UnderlineWords/Agola-Color-Schemes/master/screenshots/AgolaWhite.png" />
+----------
+##### Agola Green
+<img src="https://raw.githubusercontent.com/UnderlineWords/Agola-Color-Schemes/master/screenshots/AgolaGreen.png" />
+----------
+##### Agola Nimbus
+<img src="https://raw.githubusercontent.com/UnderlineWords/Agola-Color-Schemes/master/screenshots/AgolaNimbus.png" />
+----------
+##### Agola Light
+<img src="https://raw.githubusercontent.com/UnderlineWords/Agola-Color-Schemes/master/screenshots/AgolaLight.png" />
+----------
 
 ## Installation
 
