@@ -186,6 +186,19 @@
 			<key>name</key>
 			<string>Variable</string>
 			<key>scope</key>
+			<string>variable.language.this.js</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string />
+				<key>foreground</key>
+				<string>#DBBB3D</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Variable</string>
+			<key>scope</key>
 			<string>variable.other.readwrite.instance.ruby</string>
 			<key>settings</key>
 			<dict>
@@ -312,6 +325,17 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>JS : Keyword Operator Aritmetic</string>
+			<key>scope</key>
+			<string>keyword.operator.arithmetic.js</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#ffffff</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Keyword</string>
 			<key>scope</key>
 			<string>keyword.other.unit.css</string>
@@ -392,9 +416,9 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>bold</string>
+				<string></string>
 				<key>foreground</key>
-				<string>#A2BA43</string>
+				<string>#DBBB3D</string>
 			</dict>
 		</dict>
 		<dict>
@@ -434,6 +458,19 @@
 				<string></string>
 				<key>foreground</key>
 				<string>#DBBB3D</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Storage</string>
+			<key>scope</key>
+			<string>storage.modifier.extends.php</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>italic</string>
+				<key>foreground</key>
+				<string>#FFFFFFC4</string>
 			</dict>
 		</dict>
 		<dict>
@@ -577,6 +614,32 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>JS : Meta Block</string>
+			<key>scope</key>
+			<string>meta.block.js</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#DBBB3D</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>JS : Propery Object</string>
+			<key>scope</key>
+			<string>meta.property.object.js</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#A3CBE3</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>PHP : Meta Block</string>
 			<key>scope</key>
 			<string>meta.use.php</string>
@@ -635,7 +698,33 @@
 				<key>fontStyle</key>
 				<string />
 				<key>foreground</key>
-				<string>#A2BA43</string>
+				<string>#DB7C6D</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Tag name</string>
+			<key>scope</key>
+			<string>entity.name.tag.localname.xml</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string />
+				<key>foreground</key>
+				<string>#A3CBE3</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Tag name</string>
+			<key>scope</key>
+			<string>entity.name.tag.inline.a.html</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string />
+				<key>foreground</key>
+				<string>#ffffff</string>
 			</dict>
 		</dict>
 		<dict>
