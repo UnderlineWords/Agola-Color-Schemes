@@ -120,9 +120,61 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-            	<string></string>
+            	<string>bold</string>
 				<key>foreground</key>
 				<string>#DBBB3D</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Punctuation</string>
+			<key>scope</key>
+			<string>punctuation.definition.tag.html</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+            	<string>bold</string>
+				<key>foreground</key>
+				<string>#fff</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>JS : Block Punctuation</string>
+			<key>scope</key>
+			<string>punctuation.section.block.js</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+            	<string>bold</string>
+				<key>foreground</key>
+				<string>#fff</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>JS : Block Punctuation</string>
+			<key>scope</key>
+			<string>punctuation.section.group.js</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+            	<string>bold</string>
+				<key>foreground</key>
+				<string>#DBBB3D</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>PHP : Block Punctuation</string>
+			<key>scope</key>
+			<string>punctuation.section.block.begin.php, punctuation.section.block.end.php</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+            	<string>bold</string>
+				<key>foreground</key>
+				<string>#fff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -154,6 +206,8 @@
 			<string>constant.character, constant.other</string>
 			<key>settings</key>
 			<dict>
+				<key>fontStyle</key>
+				<string>bold</string>
 				<key>foreground</key>
 				<string>#A2BA43</string>
 			</dict>
@@ -177,9 +231,22 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string />
+				<string>bold</string>
 				<key>foreground</key>
-				<string>#A2BA43</string>
+				<string>#A3CBE3</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Variable</string>
+			<key>scope</key>
+			<string>variable.other.member.php</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>normal</string>
+				<key>foreground</key>
+				<string>#A3CBE3</string>
 			</dict>
 		</dict>
 		<dict>
@@ -358,7 +425,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Ruby : Punctuation</string>
+			<string>CSS : Punctuation</string>
 			<key>scope</key>
 			<string>punctuation.definition.keyword.css</string>
 			<key>settings</key>
@@ -378,6 +445,19 @@
 			<dict>
 				<key>fontStyle</key>
 				<string>bold</string>
+				<key>foreground</key>
+				<string>#DB7C6D</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Keyword</string>
+			<key>scope</key>
+			<string>keyword.control.import-export.js</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>italic</string>
 				<key>foreground</key>
 				<string>#DB7C6D</string>
 			</dict>
@@ -455,7 +535,7 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string></string>
+				<string>bold</string>
 				<key>foreground</key>
 				<string>#DBBB3D</string>
 			</dict>
@@ -525,6 +605,19 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>JS : Storage type arrow</string>
+			<key>scope</key>
+			<string>storage.type.function.arrow.js</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>normal</string>
+				<key>foreground</key>
+				<string>#DBBB3D</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Storage type</string>
 			<key>scope</key>
 			<string>storage.type.class.php</string>
@@ -583,7 +676,7 @@
 				<key>fontStyle</key>
 				<string />
 				<key>foreground</key>
-				<string>#E8A64B</string>
+				<string>#A2BA43</string>
 			</dict>
 		</dict>
 		<dict>
@@ -621,6 +714,19 @@
 			<dict>
 				<key>fontStyle</key>
 				<string></string>
+				<key>foreground</key>
+				<string>#DBBB3D</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>JS : Meta Block</string>
+			<key>scope</key>
+			<string>meta.object-literal.key.js</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>normal</string>
 				<key>foreground</key>
 				<string>#DBBB3D</string>
 			</dict>
@@ -684,6 +790,8 @@
 			<string>variable.parameter</string>
 			<key>settings</key>
 			<dict>
+				<key>fontStyle</key>
+				<string>normal</string>
 				<key>foreground</key>
 				<string>#FFFFFF</string>
 			</dict>
@@ -696,9 +804,35 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string />
+				<string>normal</string>
 				<key>foreground</key>
 				<string>#DB7C6D</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Tag name</string>
+			<key>scope</key>
+			<string>punctuation.section.embedded.begin.blade, punctuation.section.embedded.end.blade</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>bold</string>
+				<key>foreground</key>
+				<string>#DB7C6D</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Tag name</string>
+			<key>scope</key>
+			<string>punctuation.section.embedded.ignore.begin.blade, punctuation.section.embedded.ignore.end.blade</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>bold</string>
+				<key>foreground</key>
+				<string>#A3CBE3</string>
 			</dict>
 		</dict>
 		<dict>
@@ -764,6 +898,19 @@
 				<string />
 				<key>foreground</key>
 				<string>#E8A64B</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Tag attribute</string>
+			<key>scope</key>
+			<string>text.html.basic meta.tag.inline.a.html</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string />
+				<key>foreground</key>
+				<string>#A3CBE3</string>
 			</dict>
 		</dict>
 		<dict>
@@ -904,7 +1051,7 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-            	<string></string>
+            	<string>bold</string>
 				<key>foreground</key>
 				<string>#DB7C6D</string>
 			</dict>
