@@ -61,6 +61,19 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Quoted String</string>
+			<key>scope</key>
+			<string>string.quoted.double.json</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+            	<string></string>
+				<key>foreground</key>
+				<string>#8c9191</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Number</string>
 			<key>scope</key>
 			<string>constant.numeric</string>
@@ -77,6 +90,19 @@
 			<string>constant.language</string>
 			<key>settings</key>
 			<dict>
+				<key>foreground</key>
+				<string>#BD7A6A</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Built-in constant</string>
+			<key>scope</key>
+			<string>constant.language.json</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+            	<string>bold</string>
 				<key>foreground</key>
 				<string>#BD7A6A</string>
 			</dict>
@@ -225,6 +251,32 @@
             	<string></string>
 				<key>foreground</key>
 				<string>#657818</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>JSON : Block Punctuation</string>
+			<key>scope</key>
+			<string>punctuation.section.dictionary.begin.json, punctuation.section.dictionary.end.json</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+            	<string>bold</string>
+				<key>foreground</key>
+				<string>#5e7ca8</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>JSON : Quoted String</string>
+			<key>scope</key>
+			<string>punctuation.separator.dictionary.key-value.json</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+            	<string>bold</string>
+				<key>foreground</key>
+				<string>#bf6c60</string>
 			</dict>
 		</dict>
 		<dict>

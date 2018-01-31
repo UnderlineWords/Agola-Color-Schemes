@@ -68,9 +68,22 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-            	<string></string>
+            	<string>bold</string>
 				<key>foreground</key>
 				<string>#DBBB3D</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>JSON : Quoted String</string>
+			<key>scope</key>
+			<string>punctuation.separator.dictionary.key-value.json</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+            	<string>bold</string>
+				<key>foreground</key>
+				<string>#DB7C6D</string>
 			</dict>
 		</dict>
 		<dict>
@@ -94,7 +107,7 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-            	<string></string>
+            	<string>bold</string>
 				<key>foreground</key>
 				<string>#A2BA43</string>
 			</dict>
@@ -127,7 +140,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Punctuation</string>
+			<string>HTML : Punctuation</string>
 			<key>scope</key>
 			<string>punctuation.definition.tag.html</string>
 			<key>settings</key>
@@ -179,6 +192,32 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>JSON : Block Punctuation</string>
+			<key>scope</key>
+			<string>punctuation.section.dictionary.begin.json, punctuation.section.dictionary.end.json</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+            	<string>bold</string>
+				<key>foreground</key>
+				<string>#fff</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>SCSS : Block Punctuation</string>
+			<key>scope</key>
+			<string>source.scss</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+            	<string>bold</string>
+				<key>foreground</key>
+				<string>#fff</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Number</string>
 			<key>scope</key>
 			<string>constant.numeric</string>
@@ -195,8 +234,23 @@
 			<string>constant.language</string>
 			<key>settings</key>
 			<dict>
+				<key>fontStyle</key>
+				<string>normal</string>
 				<key>foreground</key>
 				<string>#FFFFFF</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>JSON : Built-in constant</string>
+			<key>scope</key>
+			<string>constant.language.json</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>bold</string>
+				<key>foreground</key>
+				<string>#DBBB3D</string>
 			</dict>
 		</dict>
 		<dict>
@@ -214,11 +268,13 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>User-defined constant</string>
+			<string>CSS : User-defined constant</string>
 			<key>scope</key>
 			<string>constant.other.color.rgb-value.css</string>
 			<key>settings</key>
 			<dict>
+				<key>fontStyle</key>
+				<string>normal</string>
 				<key>foreground</key>
 				<string>#ffffff</string>
 			</dict>
@@ -238,7 +294,20 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Variable</string>
+			<string>SASS : Variable</string>
+			<key>scope</key>
+			<string>variable.sass</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>normal</string>
+				<key>foreground</key>
+				<string>#A3CBE3</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>PHP : Variable</string>
 			<key>scope</key>
 			<string>variable.other.member.php</string>
 			<key>settings</key>
@@ -251,20 +320,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Variable</string>
-			<key>scope</key>
-			<string>variable.language.this.js</string>
-			<key>settings</key>
-			<dict>
-				<key>fontStyle</key>
-				<string />
-				<key>foreground</key>
-				<string>#DBBB3D</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Variable</string>
+			<string>Ruby : Variable</string>
 			<key>scope</key>
 			<string>variable.other.readwrite.instance.ruby</string>
 			<key>settings</key>
@@ -290,7 +346,20 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Variable</string>
+			<string>JS : Variable</string>
+			<key>scope</key>
+			<string>variable.language.this.js</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string />
+				<key>foreground</key>
+				<string>#DBBB3D</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>JS : Variable</string>
 			<key>scope</key>
 			<string>variable.function.js</string>
 			<key>settings</key>
@@ -403,7 +472,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Keyword</string>
+			<string>CSS : Keyword Other</string>
 			<key>scope</key>
 			<string>keyword.other.unit.css</string>
 			<key>settings</key>
@@ -414,11 +483,13 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Keyword</string>
+			<string>CSS : Keyword Control</string>
 			<key>scope</key>
 			<string>keyword.control.at-rule.css</string>
 			<key>settings</key>
 			<dict>
+				<key>fontStyle</key>
+            	<string>bold</string>
 				<key>foreground</key>
 				<string>#DBBB3D</string>
 			</dict>
@@ -438,7 +509,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Keyword</string>
+			<string>JS : Keyword Operator</string>
 			<key>scope</key>
 			<string>keyword.operator.new.js</string>
 			<key>settings</key>
@@ -451,7 +522,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Keyword</string>
+			<string>JS : Keyword Control</string>
 			<key>scope</key>
 			<string>keyword.control.import-export.js</string>
 			<key>settings</key>
@@ -464,7 +535,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Keyword</string>
+			<string>PHP : Keyword</string>
 			<key>scope</key>
 			<string>keyword.control.php</string>
 			<key>settings</key>
@@ -503,7 +574,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Keyword</string>
+			<string>PHP : Keyword Phpdoc</string>
 			<key>scope</key>
 			<string>keyword.other.phpdoc.php</string>
 			<key>settings</key>
@@ -529,7 +600,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Storage</string>
+			<string>PHP : Storage Modifier</string>
 			<key>scope</key>
 			<string>storage.modifier.php</string>
 			<key>settings</key>
@@ -542,7 +613,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Storage</string>
+			<string>PHP : Storage Modifier Extends</string>
 			<key>scope</key>
 			<string>storage.modifier.extends.php</string>
 			<key>settings</key>
@@ -555,7 +626,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Storage</string>
+			<string>PHP : Storage Modifier Implements</string>
 			<key>scope</key>
 			<string>storage.modifier.implements.php</string>
 			<key>settings</key>
@@ -592,7 +663,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>JS : Storage type</string>
+			<string>JS : Storage Function</string>
 			<key>scope</key>
 			<string>storage.type.function.js</string>
 			<key>settings</key>
@@ -618,7 +689,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Storage type</string>
+			<string>PHP : Storage Class</string>
 			<key>scope</key>
 			<string>storage.type.class.php</string>
 			<key>settings</key>
@@ -655,7 +726,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Inherited class</string>
+			<string>PHP : Inherited class</string>
 			<key>scope</key>
 			<string>entity.other.inherited-class.php</string>
 			<key>settings</key>
@@ -681,7 +752,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Function name</string>
+			<string>PHP : Function name</string>
 			<key>scope</key>
 			<string>entity.name.function.php</string>
 			<key>settings</key>
@@ -811,7 +882,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Tag name</string>
+			<string>Blade : Punctuation Begin</string>
 			<key>scope</key>
 			<string>punctuation.section.embedded.begin.blade, punctuation.section.embedded.end.blade</string>
 			<key>settings</key>
@@ -824,7 +895,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Tag name</string>
+			<string>Blade : Punctuation End</string>
 			<key>scope</key>
 			<string>punctuation.section.embedded.ignore.begin.blade, punctuation.section.embedded.ignore.end.blade</string>
 			<key>settings</key>
@@ -837,7 +908,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Tag name</string>
+			<string>XML : Tag name</string>
 			<key>scope</key>
 			<string>entity.name.tag.localname.xml</string>
 			<key>settings</key>
@@ -850,35 +921,9 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Tag name</string>
-			<key>scope</key>
-			<string>entity.name.tag.inline.a.html</string>
-			<key>settings</key>
-			<dict>
-				<key>fontStyle</key>
-				<string />
-				<key>foreground</key>
-				<string>#ffffff</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>HTML : Tag name</string>
 			<key>scope</key>
-			<string>entity.name.tag.inline.any.html</string>
-			<key>settings</key>
-			<dict>
-				<key>fontStyle</key>
-				<string />
-				<key>foreground</key>
-				<string>#ffffff</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Tag name</string>
-			<key>scope</key>
-			<string>entity.name.tag.block.any.html</string>
+			<string>entity.name.tag.inline.a.html, entity.name.tag.inline.any.html, entity.name.tag.block.any.html</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
@@ -902,7 +947,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Tag attribute</string>
+			<string>HTML : Tag attribute</string>
 			<key>scope</key>
 			<string>text.html.basic meta.tag.inline.a.html</string>
 			<key>settings</key>
@@ -941,7 +986,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Library constant</string>
+			<string>CSS : Library constant</string>
 			<key>scope</key>
 			<string>support.constant.property-value.css</string>
 			<key>settings</key>
@@ -959,6 +1004,8 @@
 			<string>support.type, support.class</string>
 			<key>settings</key>
 			<dict>
+				<key>fontStyle</key>
+				<string>normal</string>
 				<key>foreground</key>
 				<string>#E7E7E7</string>
 			</dict>
@@ -1019,7 +1066,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Keyword</string>
+			<string>Ruby : Keyword</string>
 			<key>scope</key>
 			<string>keyword.control.pseudo-method.ruby</string>
 			<key>settings</key>
@@ -1058,7 +1105,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Library class/type</string>
+			<string>Ruby : Library class/type</string>
 			<key>scope</key>
 			<string>support.class.ruby</string>
 			<key>settings</key>
@@ -1071,7 +1118,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>User-defined constant</string>
+			<string>Ruby : User-defined constant</string>
 			<key>scope</key>
 			<string>constant.other.symbol.ruby</string>
 			<key>settings</key>
@@ -1084,7 +1131,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Class name</string>
+			<string>Ruby : Class name</string>
 			<key>scope</key>
 			<string>entity.name.type.class.ruby</string>
 			<key>settings</key>
@@ -1095,7 +1142,7 @@
 				<string>#DBBB3D</string>
 			</dict>
 		</dict>
-	<dict>
+		<dict>
             <key>name</key>
             <string>SublimeLinter Gutter Mark</string>
             <key>scope</key>
@@ -1105,7 +1152,8 @@
                 <key>foreground</key>
                 <string>#FFFFFF</string>
             </dict>
-        </dict><dict>
+        </dict>
+        <dict>
             <key>name</key>
             <string>SublimeLinter Warning</string>
             <key>scope</key>
@@ -1115,7 +1163,8 @@
                 <key>foreground</key>
                 <string>#DDB700</string>
             </dict>
-        </dict><dict>
+        </dict>
+        <dict>
             <key>name</key>
             <string>SublimeLinter Error</string>
             <key>scope</key>
@@ -1125,13 +1174,14 @@
                 <key>foreground</key>
                 <string>#D02000</string>
             </dict>
-        </dict></array>
+        </dict>
+    </array>
 	<key>uuid</key>
 	<string>D8D5E82E-3D5B-46B5-B38E-8C841C21347D</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>semanticClass</key>
-	<string>theme.dark.agola_dark</string>
+	<string>theme.dark.agola_darkx2</string>
 	<key>author</key>
 	<string>Fatih Kececi</string>
 	<key>comment</key>
