@@ -98,6 +98,19 @@
 			<key>name</key>
 			<string>Built-in constant</string>
 			<key>scope</key>
+			<string>constant.language.null.js</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+            	<string>normal</string>
+				<key>foreground</key>
+				<string>#BD7A6A</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Built-in constant</string>
+			<key>scope</key>
 			<string>constant.language.json</string>
 			<key>settings</key>
 			<dict>
@@ -310,9 +323,35 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-            	<string></string>
+            	<string>bold</string>
 				<key>foreground</key>
 				<string>#bf6c60</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>JS : Propery Object</string>
+			<key>scope</key>
+			<string>meta.property.object.js</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#bf6c60</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>JS : Meta Block</string>
+			<key>scope</key>
+			<string>meta.object-literal.key.js</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>normal</string>
+				<key>foreground</key>
+				<string>#5e7ca8</string>
 			</dict>
 		</dict>
 		<!-- PHP : Keyword Namespace -->
@@ -573,6 +612,19 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>HTML : Tag attribute</string>
+			<key>scope</key>
+			<string>text.html.basic meta.tag.inline.a.html</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string />
+				<key>foreground</key>
+				<string>#bf6c60</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Library function</string>
 			<key>scope</key>
 			<string>support.function</string>
@@ -582,6 +634,19 @@
 				<string />
 				<key>foreground</key>
 				<string>#B3813D</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>JS : Support function</string>
+			<key>scope</key>
+			<string>support.function.mutator.js</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>bold</string>
+				<key>foreground</key>
+				<string>#5d6363</string>
 			</dict>
 		</dict>
 		<dict>
