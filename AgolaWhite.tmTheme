@@ -30,6 +30,8 @@
 			<string>comment</string>
 			<key>settings</key>
 			<dict>
+				<key>fontStyle</key>
+            	<string></string>
 				<key>foreground</key>
 				<string>#afc4c4</string>
 			</dict>
@@ -138,6 +140,8 @@
 			<string>constant.other.inline-data.html</string>
 			<key>settings</key>
 			<dict>
+				<key>fontStyle</key>
+            	<string>bold</string>
 				<key>foreground</key>
 				<string>#bf6c60</string>
 			</dict>
@@ -194,7 +198,33 @@
 				<key>fontStyle</key>
             	<string></string>
 				<key>foreground</key>
+				<string>#bf6c60</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>PHP & Blade : Punctuation End</string>
+			<key>scope</key>
+			<string>punctuation.section.embedded.ignore.begin.blade, punctuation.section.embedded.ignore.end.blade, punctuation.section.group.begin.php, punctuation.section.group.end.php</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>bold</string>
+				<key>foreground</key>
 				<string>#5e7ca8</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Blade : Punctuation Begin</string>
+			<key>scope</key>
+			<string>punctuation.section.embedded.begin.blade, punctuation.section.embedded.end.blade</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>bold</string>
+				<key>foreground</key>
+				<string>#bf6c60</string>
 			</dict>
 		</dict>
 		<!-- PHP : Meta Use -->
@@ -555,7 +585,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#657818</string>
+				<string>#39A270</string>
 			</dict>
 		</dict>
 		<dict>
@@ -569,6 +599,19 @@
 				<string />
 				<key>foreground</key>
 				<string>#637520</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>HTML : Custom Tag name</string>
+			<key>scope</key>
+			<string>entity.name.tag.custom.html</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>bold</string>
+				<key>foreground</key>
+				<string>#5e7ca8</string>
 			</dict>
 		</dict>
 		<dict>
