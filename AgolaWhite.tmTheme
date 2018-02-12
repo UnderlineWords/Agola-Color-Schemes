@@ -508,6 +508,19 @@
 				<string>#657818</string>
 			</dict>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>JS : Storage type</string>
+			<key>scope</key>
+			<string>storage.type.js</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>bold</string>
+				<key>foreground</key>
+				<string>#39A270</string>
+			</dict>
+		</dict>
 		<!-- PHP : Storage type class -->
 		<dict>
 			<key>name</key>
