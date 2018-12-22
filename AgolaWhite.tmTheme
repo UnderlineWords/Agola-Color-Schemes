@@ -71,7 +71,33 @@
 				<key>fontStyle</key>
             	<string></string>
 				<key>foreground</key>
-				<string>#8c9191</string>
+				<string>#5e7ca8</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Quoted String</string>
+			<key>scope</key>
+			<string>meta.structure.dictionary.json meta.structure.dictionary.value.json  string.quoted.double.json</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+            	<string></string>
+				<key>foreground</key>
+				<string>#5d6363</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Quoted String</string>
+			<key>scope</key>
+			<string>meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.key.json string.quoted.double.json</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+            	<string></string>
+				<key>foreground</key>
+				<string>#bf6c60</string>
 			</dict>
 		</dict>
 		<dict>
@@ -173,6 +199,32 @@
 				<string>#B3833B</string>
 			</dict>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>JS : Function call</string>
+			<key>scope</key>
+			<string>meta.function-call.method.js variable.function.js</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+            	<string>bold</string>
+				<key>foreground</key>
+				<string>#bf6c60</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>JS : Function call</string>
+			<key>scope</key>
+			<string>meta.function-call.method.js meta.group.js variable.function.js</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+            	<string></string>
+				<key>foreground</key>
+				<string>#5e7ca8</string>
+			</dict>
+		</dict>
 		<!-- PHP & CSS > Other -->
 		<dict>
 			<key>name</key>
@@ -227,6 +279,32 @@
 				<string>#bf6c60</string>
 			</dict>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>JS : Punctuation Begin</string>
+			<key>scope</key>
+			<string>punctuation.definition.template.begin.html, punctuation.definition.template.end.html</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>bold</string>
+				<key>foreground</key>
+				<string>#bf6c60</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>HTML : Punctuation</string>
+			<key>scope</key>
+			<string>punctuation.separator.key-value.html</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+            	<string>bold</string>
+				<key>foreground</key>
+				<string>#626364</string>
+			</dict>
+		</dict>
 		<!-- PHP : Meta Use -->
 		<dict>
 			<key>name</key>
@@ -277,9 +355,9 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-            	<string></string>
+            	<string>bold</string>
 				<key>foreground</key>
-				<string>#B3833B</string>
+				<string>#5d6363</string>
 			</dict>
 		</dict>
 		<!-- PHP : Other Property -->
@@ -423,7 +501,7 @@
 				<key>fontStyle</key>
             	<string>italic</string>
 				<key>foreground</key>
-				<string>#657818</string>
+				<string>#707e36</string>
 			</dict>
 		</dict>
 		<!-- PHPDoc : Keyword Namespace -->
@@ -437,7 +515,7 @@
 				<key>fontStyle</key>
             	<string>italic</string>
 				<key>foreground</key>
-				<string>#8a9c9c</string>
+				<string>#777</string>
 			</dict>
 		</dict>
 		<!-- PHP : Keyword Other -->
@@ -505,7 +583,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#657818</string>
+				<string>#707e36</string>
 			</dict>
 		</dict>
 		<dict>
@@ -532,7 +610,7 @@
 				<key>fontStyle</key>
             	<string></string>
 				<key>foreground</key>
-				<string>#657818</string>
+				<string>#707e36</string>
 			</dict>
 		</dict>
 		<dict>
@@ -609,9 +687,9 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string />
+				<string></string>
 				<key>foreground</key>
-				<string>#637520</string>
+				<string>#5d6363</string>
 			</dict>
 		</dict>
 		<dict>
@@ -635,7 +713,7 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-            	<string></string>
+            	<string>bold</string>
 				<key>foreground</key>
 				<string>#bf6c60</string>
 			</dict>
@@ -650,7 +728,7 @@
 				<key>fontStyle</key>
 				<string />
 				<key>foreground</key>
-				<string>#626768</string>
+				<string>#5d6363</string>
 			</dict>
 		</dict>
 		<dict>
@@ -661,9 +739,23 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string />
+				<string></string>
 				<key>foreground</key>
 				<string>#5e7ca8</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Tag attribute</string>
+			<key>scope</key>
+			<string>meta.tag.custom.html  entity.other.attribute-name.html,
+				meta.tag.inline.a.html  entity.other.attribute-name.html</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>italic</string>
+				<key>foreground</key>
+				<string>#707e36</string>
 			</dict>
 		</dict>
 		<dict>
@@ -720,6 +812,19 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Library constant</string>
+			<key>scope</key>
+			<string>support.constant.dom.js</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>bold</string>
+				<key>foreground</key>
+				<string>#85963F</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Library class/type</string>
 			<key>scope</key>
 			<string>support.type, support.class</string>
@@ -729,6 +834,19 @@
 				<string>bold</string>
 				<key>foreground</key>
 				<string>#5e7ca8</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Library class/type</string>
+			<key>scope</key>
+			<string>support.class.builtin.js</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>bold</string>
+				<key>foreground</key>
+				<string>#bf6c60</string>
 			</dict>
 		</dict>
 		<dict>
